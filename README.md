@@ -8,6 +8,7 @@ const damldieg = {
   code: ["Javascript", "React", "Redux", "Node", "SQL", "Tailwind"]
 }
 ```
+![joshua-aragon-EaB4Ml7C7fE-unsplash (1)](https://user-images.githubusercontent.com/52753814/136365438-df2be515-4aba-43ee-b741-8164d744795c.jpg)
 ## Puedes encontrarme en: 
 -[LinkedIn](https://www.linkedin.com/in/damianldiego/)
 -[Twitter](https://twitter.com/DamianLDiego)
