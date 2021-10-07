@@ -1,11 +1,11 @@
 ### Hola 👋
 
-```html
+```HTML
 <h1>Damian Diego</h1>
 ```
 
 ```js
-<h1>Damian Diego</h1>
+
 const damldieg = {
   name: "Damian Diego",
   rol: "Frontend Developer",
