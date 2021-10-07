@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hola 👋
+
+```html
+<h1>Damian Diego</h1>
+```
 
 ```js
+<h1>Damian Diego</h1>
 const damldieg = {
   name: "Damian Diego",
   rol: "Frontend Developer",
   code: ["Javascript", "React", "Redux", "Node", "SQL", "Tailwind"]
 }
-
-
 
 ```
 <!--
