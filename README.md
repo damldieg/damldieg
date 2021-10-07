@@ -1,9 +1,5 @@
 ### Hola 👋
 
-```HTML
-<h1>Damian Diego</h1>
-```
-
 ```js
 
 const damldieg = {
@@ -11,8 +7,10 @@ const damldieg = {
   rol: "Frontend Developer",
   code: ["Javascript", "React", "Redux", "Node", "SQL", "Tailwind"]
 }
-
 ```
+## Puedes encontrarme en: 
+-[LinkedIn](https://www.linkedin.com/in/damianldiego/)
+-[Twitter](https://twitter.com/DamianLDiego)
 <!--
 **damldieg/damldieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
