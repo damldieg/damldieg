@@ -3,7 +3,7 @@
 ```js
 const damldieg = {
   name: "Damian Diego",
-  rol: "Frontend Developer"
+  rol: "Frontend Developer",
   code: ["Javascript", "React", "Redux", "Node", "SQL", "Tailwind"]
 }
 
