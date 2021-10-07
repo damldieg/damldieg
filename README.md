@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```js
+const damldieg = {
+  name: "Damian Diego",
+  rol: "Frontend Developer"
+  code: ["Javascript", "React", "Redux", "Node", "SQL", "Tailwind"]
+}
+
+
+
+```
 <!--
 **damldieg/damldieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
