@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Tailwind, Python**
 
+- 👨‍💻 All of my projects are available at [damdiegdevfolio.netlify.app](damdiegdevfolio.netlify.app)
+
 - 💬 Ask me about **react, redux, node, express, tailwind**
 
 - 📫 How to reach me **damian.diego.2510@gmail.com**
@@ -27,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damldieg&show_icons=true&locale=en&layout=compact" alt="damldieg" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=damldieg&show_icons=true&locale=en" alt="damldieg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damldieg&show_icons=true&locale=en" alt="damldieg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damldieg&" alt="damldieg" /></p>
 
