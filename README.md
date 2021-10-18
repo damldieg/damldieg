@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Python**
 
-- 👨‍💻 All of my projects are available at [damdiegdevfolio.netlify.app](damdiegdevfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://damdiegdevfolio.netlify.app/](https://damdiegdevfolio.netlify.app/)
 
 - 💬 Ask me about **react, redux, node, express, tailwind**
 
