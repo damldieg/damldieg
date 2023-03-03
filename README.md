@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damldieg" alt="damldieg" /></a> </p>
 
-- 🔭 I’m currently working on [Adogtame App](https://adogtame.vercel.app/)
-
-- 🌱 I’m currently learning **Tailwind, Python**
-
 - 👨‍💻 All of my projects are available at [https://damdiegdevfolio.netlify.app/](https://damdiegdevfolio.netlify.app/)
 
 - 💬 Ask me about **react, redux, node, express, tailwind**
