@@ -2,7 +2,7 @@
 ![joshua-aragon-EaB4Ml7C7fE-unsplash (1)](https://user-images.githubusercontent.com/52753814/136365438-df2be515-4aba-43ee-b741-8164d744795c.jpg)
 
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate frontend developer from Argentina based on Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damldieg&label=Profile%20views&color=0e75b6&style=flat" alt="damldieg" /> </p>
 
